@@ -3,9 +3,10 @@
 Welcome to my `README` page.
 
 **UPDATE 30 Jan 2024:**
-<p>I am resetting my GitHub repository -- deleting old repos, updating forks, etc. -- with the hopes of motivating myself to do more analytical work.
-I plan to focus on R, though I may do some work in Python as well.
-I'll be using the space to post updates, which will be dated.  All of my work will be in a yet-to-be-created repository.  My previous work from blogs, etc., is available.</p>
+<p>I am resetting my GitHub account -- deleting old/unmaintained repositories, updating forks, etc. -- with the hopes of motivating myself to do more analytical work.</p>
+<p>I plan to focus on R, though I may do some work in Python as well.</p>
+<p>I'll be using thise space to post updates, which will be dated like this one.  All of my new work will be in a yet-to-be-created repo.  My previous work from blogs, etc., is available in various repos in my account.</p>
+<p>Thanks for checking this out, and keep an eye out for updates!</p>
 <br>
 
 <!--
