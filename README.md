@@ -1,7 +1,7 @@
 ### Hello!
-<br>
+
 Welcome to my `README` page.
-<br>
+
 <p>**UPDATE 30 Jan 2024:**</p>
 <p>I am resetting my GitHub repository -- deleting old repos, updating forks, etc. -- with the hopes of motivating myself to do more analytical work.
 I plan to focus on R, though I may do some work in Python as well.
