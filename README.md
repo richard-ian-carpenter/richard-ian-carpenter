@@ -1,12 +1,12 @@
 ### Hello!
-
+<br>
 Welcome to my `README` page.
-
-UPDATE 30 Jan 2024:
-I am resetting my GitHub repository -- deleting old repos, updating forks, etc. -- with the hopes of motivating myself to do more analytical work.
+<br>
+<p>**UPDATE 30 Jan 2024:**</p>
+<p>I am resetting my GitHub repository -- deleting old repos, updating forks, etc. -- with the hopes of motivating myself to do more analytical work.
 I plan to focus on R, though I may do some work in Python as well.
-I'll be using the space to post updates, which will be dated.  All of my work will be in a yet-to-be-created repository.  My previous work from blogs, etc., is available.
-
+I'll be using the space to post updates, which will be dated.  All of my work will be in a yet-to-be-created repository.  My previous work from blogs, etc., is available.</p>
+<br>
 
 <!--
 **richard-ian-carpenter/richard-ian-carpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
