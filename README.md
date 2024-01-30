@@ -2,7 +2,7 @@
 
 Welcome to my `README` page.
 
-<p>**UPDATE 30 Jan 2024:**</p>
+**UPDATE 30 Jan 2024:**
 <p>I am resetting my GitHub repository -- deleting old repos, updating forks, etc. -- with the hopes of motivating myself to do more analytical work.
 I plan to focus on R, though I may do some work in Python as well.
 I'll be using the space to post updates, which will be dated.  All of my work will be in a yet-to-be-created repository.  My previous work from blogs, etc., is available.</p>
