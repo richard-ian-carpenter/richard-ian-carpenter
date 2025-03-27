@@ -2,14 +2,18 @@
 
 Welcome to my `README` page.
 
+**UPDATE 27 Mar 2025:**
+Continuing to make some updates. Working on reviving my old blog, "Just A Data Geek", also.
+
+**UPDATE 06 Aug 2024:**
+I added an updated script in my `Sports_Analysis` repository.  I cleaned up the issues I was having with team names and abbreviations.  I will continue to work on projections, to make them look more reasonable.
+
 **UPDATE 30 Jan 2024:**
 I am resetting my GitHub account -- deleting old/unmaintained repositories, updating forks, etc. -- along with my blog [Just A Data Geek](https://justadatageek.com/) in the hopes of motivating myself to do more analytical work.
 I plan to focus on R, though I may do some work in Python as well.
 I'll be using this space to post updates, which will be dated like this one.  All of my new work will be in a yet-to-be-created repo.  My previous work from blogs, etc., is available in various repos in my account.
 Thanks for checking this out, and keep an eye out for updates!
 
-**UPDATE 06 Aug 2024:**
-I added an updated script in my `Sports_Analysis` repository.  I cleaned up the issues I was having with team names and abbreviations.  I will continue to work on projections, to make them look more reasonable.
 
 <!--
 **richard-ian-carpenter/richard-ian-carpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
