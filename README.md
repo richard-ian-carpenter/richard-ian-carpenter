@@ -2,6 +2,9 @@
 
 Welcome to my `README` page.
 
+**UPDATE 04 Apr 2025:**
+Updating the licensing on my work.  Preparing to create a github.io page to do my blogging here, while my domain is registered elsewhere.
+
 **UPDATE 27 Mar 2025:**
 Continuing to make some updates. Working on reviving my old blog, "Just A Data Geek", also.
 
