@@ -2,6 +2,9 @@
 
 Welcome to my `README` page.
 
+**UPDATE 08 Apr 2025:**
+Set up domain ragistration and github.io page.  Also set up a "Working Projects" repository so that I can work from either my desktop or my laptop.  The [Just A Data Geek](https://www.justadatageek.com) blog is my current project.
+
 **UPDATE 04 Apr 2025:**
 Updating the licensing on my work.  Preparing to create a github.io page to do my blogging here, while my domain is registered elsewhere.
 
