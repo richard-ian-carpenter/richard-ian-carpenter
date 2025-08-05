@@ -2,8 +2,11 @@
 
 Welcome to my `README` page.
 
+**UPDATE 05 Aug 2025:**
+Updated my MLB prediction `R` script.  Still figuring out my blog.
+
 **UPDATE 08 Apr 2025:**
-Set up domain ragistration and github.io page.  Also set up a "Working Projects" repository so that I can work from either my desktop or my laptop.  The [Just A Data Geek](https://justadatageek.com) blog is my current project.
+Set up domain registration and github.io page.  Also set up a "Working Projects" repository so that I can work from either my desktop or my laptop.  The [Just A Data Geek](https://justadatageek.com) blog is my current project.
 
 **UPDATE 04 Apr 2025:**
 Updating the licensing on my work.  Preparing to create a github.io page to do my blogging here, while my domain is registered elsewhere.
